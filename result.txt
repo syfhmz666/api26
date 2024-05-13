@@ -1,0 +1,9 @@
+test_reg_ok (test_xzs_reg.MyTestCase) ... ok
+test_login_err_01 (text_xzs_login.MyTestCase) ... ok
+test_login_err_02 (text_xzs_login.MyTestCase) ... ok
+test_login_ok (text_xzs_login.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.088s
+
+OK
